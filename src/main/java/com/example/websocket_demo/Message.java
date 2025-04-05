@@ -1,7 +1,7 @@
 package com.example.websocket_demo;
 
 
-
+//test line
 public class Message {
     private String user;
     private String message;
